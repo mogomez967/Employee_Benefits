@@ -5,6 +5,8 @@ This project showcases JSON formating and manipulation along with data parsing a
     # 3. Determine which department has the highest and the lowest average spending per employee.
     # 4. Calculate which benefit has been spent on the most across the company for the data.
 
+The main program lies in main.py and the JSON file is titled emplyee_benefits_data.json
+
 Note: The provided JSON was in a deeply nested format making objective #1 crucial for setting up readable data frames the rest of the objectives. i.e.
 # Sample JSON structure:
 # {
