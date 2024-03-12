@@ -1,0 +1,21 @@
+This project showcases JSON formating and manipulation along with data parsing and analyzing utilizing Pandas. The main objectives were, given a JSON with employee data:
+
+    # 1. Read the provided JSON file to analyze the data.
+    # 2. Calculate the average total amount of benefits spending per user for each department.
+    # 3. Determine which department has the highest and the lowest average spending per employee.
+    # 4. Calculate which benefit has been spent on the most across the company for the data.
+
+Note: The provided JSON was in a deeply nested format making objective #1 crucial for setting up readable data frames the rest of the objectives. i.e.
+# Sample JSON structure:
+# {
+#   "departments": [
+#     {
+#       "name": "Engineering",
+#       "users": [
+#         {"id": 1, "spending": {"food": 120, "wellness": 150, "phone_wifi": 80, "transportation": 100, "health_insurance": 200}},
+#         ...
+#       ]
+#     },
+#     ...
+#   ]
+# }
