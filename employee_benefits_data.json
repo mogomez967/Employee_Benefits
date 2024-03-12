@@ -1,0 +1,749 @@
+{
+  "departments": [
+    {
+      "name": "Engineering",
+      "users": [
+        {
+          "id": 751,
+          "spending": {
+            "food": 182,
+            "wellness": 135,
+            "phone_wifi": 65,
+            "transportation": 170,
+            "health_insurance": 125
+          }
+        },
+        {
+          "id": 443,
+          "spending": {
+            "food": 57,
+            "wellness": 189,
+            "phone_wifi": 93,
+            "transportation": 137,
+            "health_insurance": 75
+          }
+        },
+        {
+          "id": 452,
+          "spending": {
+            "food": 89,
+            "wellness": 66,
+            "phone_wifi": 118,
+            "transportation": 182,
+            "health_insurance": 66
+          }
+        },
+        {
+          "id": 993,
+          "spending": {
+            "food": 120,
+            "wellness": 146,
+            "phone_wifi": 77,
+            "transportation": 117,
+            "health_insurance": 111
+          }
+        },
+        {
+          "id": 70,
+          "spending": {
+            "food": 89,
+            "wellness": 81,
+            "phone_wifi": 125,
+            "transportation": 199,
+            "health_insurance": 159
+          }
+        },
+        {
+          "id": 415,
+          "spending": {
+            "food": 171,
+            "wellness": 84,
+            "phone_wifi": 54,
+            "transportation": 152,
+            "health_insurance": 179
+          }
+        },
+        {
+          "id": 924,
+          "spending": {
+            "food": 114,
+            "wellness": 173,
+            "phone_wifi": 166,
+            "transportation": 188,
+            "health_insurance": 131
+          }
+        },
+        {
+          "id": 340,
+          "spending": {
+            "food": 181,
+            "wellness": 117,
+            "phone_wifi": 56,
+            "transportation": 176,
+            "health_insurance": 62
+          }
+        }
+      ]
+    },
+    {
+      "name": "HR",
+      "users": [
+        {
+          "id": 493,
+          "spending": {
+            "food": 149,
+            "wellness": 59,
+            "phone_wifi": 59,
+            "transportation": 112,
+            "health_insurance": 118
+          }
+        },
+        {
+          "id": 816,
+          "spending": {
+            "food": 52,
+            "wellness": 161,
+            "phone_wifi": 172,
+            "transportation": 98,
+            "health_insurance": 94
+          }
+        },
+        {
+          "id": 230,
+          "spending": {
+            "food": 85,
+            "wellness": 104,
+            "phone_wifi": 80,
+            "transportation": 153,
+            "health_insurance": 189
+          }
+        },
+        {
+          "id": 702,
+          "spending": {
+            "food": 197,
+            "wellness": 190,
+            "phone_wifi": 62,
+            "transportation": 145,
+            "health_insurance": 149
+          }
+        },
+        {
+          "id": 550,
+          "spending": {
+            "food": 175,
+            "wellness": 190,
+            "phone_wifi": 137,
+            "transportation": 93,
+            "health_insurance": 70
+          }
+        },
+        {
+          "id": 418,
+          "spending": {
+            "food": 184,
+            "wellness": 173,
+            "phone_wifi": 125,
+            "transportation": 72,
+            "health_insurance": 158
+          }
+        },
+        {
+          "id": 537,
+          "spending": {
+            "food": 200,
+            "wellness": 53,
+            "phone_wifi": 169,
+            "transportation": 134,
+            "health_insurance": 56
+          }
+        },
+        {
+          "id": 559,
+          "spending": {
+            "food": 151,
+            "wellness": 73,
+            "phone_wifi": 137,
+            "transportation": 105,
+            "health_insurance": 131
+          }
+        },
+        {
+          "id": 252,
+          "spending": {
+            "food": 131,
+            "wellness": 188,
+            "phone_wifi": 147,
+            "transportation": 129,
+            "health_insurance": 119
+          }
+        },
+        {
+          "id": 702,
+          "spending": {
+            "food": 166,
+            "wellness": 71,
+            "phone_wifi": 58,
+            "transportation": 119,
+            "health_insurance": 85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Sales",
+      "users": [
+        {
+          "id": 644,
+          "spending": {
+            "food": 81,
+            "wellness": 150,
+            "phone_wifi": 177,
+            "transportation": 191,
+            "health_insurance": 130
+          }
+        },
+        {
+          "id": 123,
+          "spending": {
+            "food": 156,
+            "wellness": 81,
+            "phone_wifi": 192,
+            "transportation": 197,
+            "health_insurance": 96
+          }
+        },
+        {
+          "id": 560,
+          "spending": {
+            "food": 121,
+            "wellness": 76,
+            "phone_wifi": 118,
+            "transportation": 88,
+            "health_insurance": 102
+          }
+        },
+        {
+          "id": 642,
+          "spending": {
+            "food": 126,
+            "wellness": 75,
+            "phone_wifi": 156,
+            "transportation": 83,
+            "health_insurance": 153
+          }
+        },
+        {
+          "id": 153,
+          "spending": {
+            "food": 73,
+            "wellness": 78,
+            "phone_wifi": 135,
+            "transportation": 113,
+            "health_insurance": 153
+          }
+        },
+        {
+          "id": 883,
+          "spending": {
+            "food": 115,
+            "wellness": 74,
+            "phone_wifi": 145,
+            "transportation": 56,
+            "health_insurance": 129
+          }
+        },
+        {
+          "id": 126,
+          "spending": {
+            "food": 73,
+            "wellness": 95,
+            "phone_wifi": 168,
+            "transportation": 163,
+            "health_insurance": 187
+          }
+        },
+        {
+          "id": 607,
+          "spending": {
+            "food": 51,
+            "wellness": 162,
+            "phone_wifi": 194,
+            "transportation": 149,
+            "health_insurance": 130
+          }
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "users": [
+        {
+          "id": 383,
+          "spending": {
+            "food": 60,
+            "wellness": 56,
+            "phone_wifi": 195,
+            "transportation": 97,
+            "health_insurance": 158
+          }
+        },
+        {
+          "id": 891,
+          "spending": {
+            "food": 91,
+            "wellness": 169,
+            "phone_wifi": 94,
+            "transportation": 142,
+            "health_insurance": 98
+          }
+        },
+        {
+          "id": 773,
+          "spending": {
+            "food": 93,
+            "wellness": 150,
+            "phone_wifi": 129,
+            "transportation": 177,
+            "health_insurance": 154
+          }
+        },
+        {
+          "id": 58,
+          "spending": {
+            "food": 56,
+            "wellness": 78,
+            "phone_wifi": 148,
+            "transportation": 56,
+            "health_insurance": 68
+          }
+        },
+        {
+          "id": 318,
+          "spending": {
+            "food": 57,
+            "wellness": 146,
+            "phone_wifi": 105,
+            "transportation": 152,
+            "health_insurance": 133
+          }
+        },
+        {
+          "id": 783,
+          "spending": {
+            "food": 93,
+            "wellness": 55,
+            "phone_wifi": 141,
+            "transportation": 199,
+            "health_insurance": 149
+          }
+        },
+        {
+          "id": 493,
+          "spending": {
+            "food": 177,
+            "wellness": 153,
+            "phone_wifi": 159,
+            "transportation": 192,
+            "health_insurance": 135
+          }
+        },
+        {
+          "id": 894,
+          "spending": {
+            "food": 76,
+            "wellness": 178,
+            "phone_wifi": 89,
+            "transportation": 173,
+            "health_insurance": 142
+          }
+        },
+        {
+          "id": 44,
+          "spending": {
+            "food": 60,
+            "wellness": 67,
+            "phone_wifi": 140,
+            "transportation": 140,
+            "health_insurance": 76
+          }
+        },
+        {
+          "id": 686,
+          "spending": {
+            "food": 103,
+            "wellness": 118,
+            "phone_wifi": 168,
+            "transportation": 148,
+            "health_insurance": 66
+          }
+        }
+      ]
+    },
+    {
+      "name": "Operations",
+      "users": [
+        {
+          "id": 510,
+          "spending": {
+            "food": 76,
+            "wellness": 183,
+            "phone_wifi": 140,
+            "transportation": 167,
+            "health_insurance": 105
+          }
+        },
+        {
+          "id": 840,
+          "spending": {
+            "food": 116,
+            "wellness": 179,
+            "phone_wifi": 151,
+            "transportation": 101,
+            "health_insurance": 85
+          }
+        },
+        {
+          "id": 638,
+          "spending": {
+            "food": 152,
+            "wellness": 69,
+            "phone_wifi": 90,
+            "transportation": 157,
+            "health_insurance": 155
+          }
+        },
+        {
+          "id": 530,
+          "spending": {
+            "food": 130,
+            "wellness": 111,
+            "phone_wifi": 62,
+            "transportation": 129,
+            "health_insurance": 103
+          }
+        },
+        {
+          "id": 391,
+          "spending": {
+            "food": 118,
+            "wellness": 200,
+            "phone_wifi": 186,
+            "transportation": 106,
+            "health_insurance": 80
+          }
+        },
+        {
+          "id": 143,
+          "spending": {
+            "food": 195,
+            "wellness": 72,
+            "phone_wifi": 89,
+            "transportation": 55,
+            "health_insurance": 132
+          }
+        }
+      ]
+    },
+    {
+      "name": "Finance",
+      "users": [
+        {
+          "id": 833,
+          "spending": {
+            "food": 62,
+            "wellness": 147,
+            "phone_wifi": 184,
+            "transportation": 71,
+            "health_insurance": 126
+          }
+        },
+        {
+          "id": 90,
+          "spending": {
+            "food": 131,
+            "wellness": 200,
+            "phone_wifi": 134,
+            "transportation": 190,
+            "health_insurance": 83
+          }
+        },
+        {
+          "id": 868,
+          "spending": {
+            "food": 88,
+            "wellness": 195,
+            "phone_wifi": 89,
+            "transportation": 91,
+            "health_insurance": 125
+          }
+        },
+        {
+          "id": 901,
+          "spending": {
+            "food": 155,
+            "wellness": 114,
+            "phone_wifi": 80,
+            "transportation": 168,
+            "health_insurance": 144
+          }
+        },
+        {
+          "id": 703,
+          "spending": {
+            "food": 94,
+            "wellness": 93,
+            "phone_wifi": 144,
+            "transportation": 189,
+            "health_insurance": 117
+          }
+        },
+        {
+          "id": 970,
+          "spending": {
+            "food": 66,
+            "wellness": 80,
+            "phone_wifi": 104,
+            "transportation": 144,
+            "health_insurance": 164
+          }
+        },
+        {
+          "id": 964,
+          "spending": {
+            "food": 171,
+            "wellness": 127,
+            "phone_wifi": 143,
+            "transportation": 170,
+            "health_insurance": 66
+          }
+        },
+        {
+          "id": 732,
+          "spending": {
+            "food": 167,
+            "wellness": 120,
+            "phone_wifi": 135,
+            "transportation": 134,
+            "health_insurance": 55
+          }
+        },
+        {
+          "id": 744,
+          "spending": {
+            "food": 125,
+            "wellness": 133,
+            "phone_wifi": 64,
+            "transportation": 137,
+            "health_insurance": 147
+          }
+        },
+        {
+          "id": 930,
+          "spending": {
+            "food": 171,
+            "wellness": 107,
+            "phone_wifi": 109,
+            "transportation": 65,
+            "health_insurance": 78
+          }
+        }
+      ]
+    },
+    {
+      "name": "Customer Support",
+      "users": [
+        {
+          "id": 579,
+          "spending": {
+            "food": 68,
+            "wellness": 95,
+            "phone_wifi": 127,
+            "transportation": 146,
+            "health_insurance": 158
+          }
+        },
+        {
+          "id": 1,
+          "spending": {
+            "food": 90,
+            "wellness": 151,
+            "phone_wifi": 138,
+            "transportation": 109,
+            "health_insurance": 152
+          }
+        },
+        {
+          "id": 732,
+          "spending": {
+            "food": 131,
+            "wellness": 88,
+            "phone_wifi": 57,
+            "transportation": 54,
+            "health_insurance": 120
+          }
+        },
+        {
+          "id": 779,
+          "spending": {
+            "food": 161,
+            "wellness": 146,
+            "phone_wifi": 127,
+            "transportation": 109,
+            "health_insurance": 149
+          }
+        },
+        {
+          "id": 339,
+          "spending": {
+            "food": 71,
+            "wellness": 199,
+            "phone_wifi": 102,
+            "transportation": 169,
+            "health_insurance": 70
+          }
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "users": [
+        {
+          "id": 54,
+          "spending": {
+            "food": 81,
+            "wellness": 176,
+            "phone_wifi": 75,
+            "transportation": 102,
+            "health_insurance": 99
+          }
+        },
+        {
+          "id": 899,
+          "spending": {
+            "food": 80,
+            "wellness": 89,
+            "phone_wifi": 51,
+            "transportation": 50,
+            "health_insurance": 118
+          }
+        },
+        {
+          "id": 510,
+          "spending": {
+            "food": 196,
+            "wellness": 111,
+            "phone_wifi": 62,
+            "transportation": 127,
+            "health_insurance": 200
+          }
+        },
+        {
+          "id": 365,
+          "spending": {
+            "food": 63,
+            "wellness": 145,
+            "phone_wifi": 179,
+            "transportation": 200,
+            "health_insurance": 59
+          }
+        },
+        {
+          "id": 265,
+          "spending": {
+            "food": 64,
+            "wellness": 134,
+            "phone_wifi": 70,
+            "transportation": 185,
+            "health_insurance": 199
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "users": [
+        {
+          "id": 952,
+          "spending": {
+            "food": 115,
+            "wellness": 169,
+            "phone_wifi": 88,
+            "transportation": 92,
+            "health_insurance": 76
+          }
+        },
+        {
+          "id": 3,
+          "spending": {
+            "food": 169,
+            "wellness": 171,
+            "phone_wifi": 96,
+            "transportation": 173,
+            "health_insurance": 137
+          }
+        },
+        {
+          "id": 690,
+          "spending": {
+            "food": 197,
+            "wellness": 89,
+            "phone_wifi": 126,
+            "transportation": 123,
+            "health_insurance": 53
+          }
+        },
+        {
+          "id": 518,
+          "spending": {
+            "food": 127,
+            "wellness": 112,
+            "phone_wifi": 130,
+            "transportation": 127,
+            "health_insurance": 96
+          }
+        },
+        {
+          "id": 498,
+          "spending": {
+            "food": 180,
+            "wellness": 153,
+            "phone_wifi": 81,
+            "transportation": 130,
+            "health_insurance": 171
+          }
+        },
+        {
+          "id": 653,
+          "spending": {
+            "food": 123,
+            "wellness": 68,
+            "phone_wifi": 102,
+            "transportation": 58,
+            "health_insurance": 160
+          }
+        },
+        {
+          "id": 387,
+          "spending": {
+            "food": 168,
+            "wellness": 129,
+            "phone_wifi": 59,
+            "transportation": 172,
+            "health_insurance": 61
+          }
+        },
+        {
+          "id": 497,
+          "spending": {
+            "food": 148,
+            "wellness": 62,
+            "phone_wifi": 95,
+            "transportation": 100,
+            "health_insurance": 161
+          }
+        }
+      ]
+    }
+  ]
+}
