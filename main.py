@@ -84,7 +84,6 @@ design_only_data.reset_index(drop=True, inplace=True)
 """
 
 2. calc average benefits per user per department
-TODO: Make a function for this section to clean it up
 
 """
 # Creates a list of IDs (tuples) for each department while calculating employee spending averages
